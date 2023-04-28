@@ -1,0 +1,25 @@
+<annotation>
+	<folder>my-project-name</folder>
+	<filename>m9.jpg</filename>
+	<path>/my-project-name/m9.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>2200</width>
+		<height>1445</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>Head</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>853</xmin>
+			<ymin>147</ymin>
+			<xmax>1355</xmax>
+			<ymax>888</ymax>
+		</bndbox>
+	</object>
+</annotation>
